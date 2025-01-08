@@ -1,0 +1,18 @@
+.par1 {
+    font-size:large;
+
+    .mots1 {
+        text-align: left;
+      color: blue;
+      background-color: aquamarine;
+      margin:  3% 3% 3% 3%;
+      /* margin-inline: 20px; */  
+    }
+    .mots2 {
+        color: brown;
+        text-align:right;
+    }
+    }
+.par2 {
+    font-size:large;
+}
